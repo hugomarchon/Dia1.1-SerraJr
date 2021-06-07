@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+}
+
+text{
+    font-family: 'Magra', sans-serif;
+    font-size: 28px;
+    color: black;
+}
+
+button{      
+    width: 314px;
+    height: 86px;
+    background-color: #993399;
+    font-family: 'Magra', sans-serif;
+    color: white;
+    font-size: 36px;
+    border-radius: 4px;
+}
